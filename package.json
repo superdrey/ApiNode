@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-api-authentication-jwt",
+  "version": "1.0.0",
+  "author": "skydrey",
+  "description": "REST API NodeJS Authentication with token JWT.",
+  "keywords": [
+    "authentication",
+    "jwt"
+  ],
+  "dependencies": {
+    "bcrypt": "^1.0.1",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
+    "crypto": "0.0.3",
+    "ejs": "^2.5.5",
+    "express": "~3.3.4",
+    "jsonwebtoken": "^7.2.1",
+    "jwt-simple": "^0.5.1",
+    "mongoose": "^4.7.2",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "underscore": "^1.8.3"
+  }
+}
